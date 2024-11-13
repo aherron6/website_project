@@ -1,0 +1,35 @@
+
+h1{
+	color:#5b484a;
+}
+
+body{
+	background-color:#e3ele6;
+	font-family: serif;
+}
+
+ul{
+	list-style-type: none;
+	background-color: #8b5843;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+}
+
+li{
+	float: left;
+}
+
+li a{
+	color: white;
+	padding: 20px;
+	text-align: center;
+	float: left;
+}
+
+li a:hover{
+	color:#8b5843;
+	background-color: white;
+}
